@@ -52,7 +52,7 @@
 
 ```bash
 streamlit run chat_with_documents.py
-
+```
 
 ## 🗂️ Project Structure
 
@@ -64,7 +64,7 @@ streamlit run chat_with_documents.py
 ├── requirements.txt        # Python dependencies
 ├── .gitignore              # Files/folders to ignore in Git
 └── README.md               # Project overview and instructions
-
+```
 
 ## 🤝 Contributing
 
@@ -77,3 +77,4 @@ Thank you for considering contributing! To get started:
    ```bash
    git clone https://github.com/RutwikPatel13/RAG_APP.git
    cd RAG_APP
+```
