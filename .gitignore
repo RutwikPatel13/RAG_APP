@@ -8,3 +8,7 @@ env/
 mychroma_db/
 
 .DS_Store
+
+
+mychroma_db/
+env
